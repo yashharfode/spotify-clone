@@ -1,3 +1,3 @@
 # Spotify Clone
 
-https://yashharfode.github.io/spotify-clone/
+https://spotifywebplay.netlify.app/
